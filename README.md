@@ -3,6 +3,8 @@
 ## OS_Project1
 
 - Deadlock
+- Semaphore
+- Critical Section
 
 ## OS_Project2
 
